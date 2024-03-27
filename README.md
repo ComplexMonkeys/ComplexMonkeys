@@ -1,11 +1,15 @@
-### Hello, World! 🌱
+### Hello, World! 🌍
+
 I am a Software Developer. I also [Insert jargon here].
 
 ---
-🧠 I understand Angular; Bash; C; Docker; Java; JavaScript; Python; SQL; TypeScript;
 
-🔍 I am interested in Free and open-source software; Nerd stuff; Linux;
+🧠 I have a history of dealing with: Angular; Bash; C; Docker; Java; JavaScript; Python; SQL; Tailwind CSS; TypeScript;
 
-🛠️ I am working on University; My own projects;
+🌱 Learning to work with: React and Vite;
+
+🔍 Interested in: Free and open-source software; Front-end web development; Linux;
+
+🛠️ Currently working on: My own projects; University;
 
 ---
