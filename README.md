@@ -8,9 +8,9 @@
   <p>🌱 Learning to work with: React and Vite; 🌱</p>
 <hr>
   <a>
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=ComplexMonkeys&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="Github Statistics" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=ComplexMonkeys&show_icons=true&include_all_commits=true&theme=transparent" alt="Github Statistics" />
   </a>
   <a>
-    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComplexMonkeys&langs_count=6&layout=compact&count_private=true&theme=transparent" alt="Top Languages Used" />
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComplexMonkeys&langs_count=6&layout=compact&theme=transparent" alt="Top Languages Used" />
   </a>
 </div>
